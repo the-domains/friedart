@@ -1,40 +1,28 @@
+name: FriedArt
+favicon: null
+layout_spectrum: 0.03646414680406451
+typography_spectrum: 0.38785291207022965
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-purpose: []
 color:
-  saturation: 0.4659574
-  brandStrength: 1
-  lightness: 0.9829787
   brandColors:
-    - '#323236'
-    - '#86B4DA'
-    - '#EAD7CF'
-    - '#040406'
-    - '#4A6D8A'
-  rhythmicContrast: 0.4425532
-typography_spectrum: 0.3878529120702296
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 1
-favicon: null
-name: FriedArt
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.1548569065053016
+  lightness: 0.6126057642977685
+  saturation: 0.9843807581346482
+  rhythmicContrast: 0.6551700348500162
+purpose: []
