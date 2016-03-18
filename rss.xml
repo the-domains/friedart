@@ -4,8 +4,15 @@
         <description><![CDATA[FriedArt]]></description>
         <link>https://thegrid.ai/friedart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 15:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 15:25:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/friedart/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Identity]]></title>
+            <description><![CDATA[<article><h1>Identity</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/768e979a-fd33-4b58-a4a4-c196fad66ad2.png"></article>]]></description>
+            <link>https://thegrid.ai/friedart/identity/index.html</link>
+            <guid isPermaLink="false">09497b24-ed07-4c31-9258-347ec9cb6379</guid>
+            <pubDate>Fri, 18 Mar 2016 15:24:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Landscape]]></title>
             <description><![CDATA[<article><h1>Landscape</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/648b5b92-da8c-42a0-ba1a-7973d39ab74c.png"></article>]]></description>
